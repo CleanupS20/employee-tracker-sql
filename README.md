@@ -19,7 +19,7 @@
  
 ## Visuals
 
-![Functionaity Video](https://drive.google.com/file/d/1ls9yKF-VOg6TiPh0DHMHj65LaDrU6M-s/view)
+![Functionaity Video] https://drive.google.com/file/d/1ls9yKF-VOg6TiPh0DHMHj65LaDrU6M-s/view?usp=share_link
 
 ## Site
 
